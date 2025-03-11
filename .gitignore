@@ -5,3 +5,5 @@ condition
 loop
 subprogram/subprogram
 subprogram/mainprogram
+structure/basicstructure
+structure/array
